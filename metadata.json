@@ -1,0 +1,5 @@
+{
+  "name": "RasaayanReaction: Digital Lab & Reaction Simulator",
+  "description": "A research-grade in silico chemistry platform for molecular analysis, reaction prediction, and safety intelligence using PubChem and Gemini AI.",
+  "requestFramePermissions": []
+}
